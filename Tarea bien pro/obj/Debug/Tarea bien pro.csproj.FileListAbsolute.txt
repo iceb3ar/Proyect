@@ -1,15 +1,11 @@
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\bin\Debug\Tarea bien pro.exe.config
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\bin\Debug\Tarea bien pro.exe
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\bin\Debug\Tarea bien pro.pdb
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.AssemblyReference.cache
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.SuggestedBindingRedirects.cache
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.CoreCompileInputs.cache
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\obj\Debug\Tarea bien pro.exe
-C:\Users\zMavshPvP\source\repos\Tarea bien pro\Tarea bien pro\obj\Debug\Tarea bien pro.pdb
-C:\Users\Dylan\source\GitHub\Downloads\para adrian\Tarea bien pro\bin\Debug\Tarea bien pro.exe.config
-C:\Users\Dylan\source\GitHub\Downloads\para adrian\Tarea bien pro\bin\Debug\Tarea bien pro.exe
-C:\Users\Dylan\source\GitHub\Downloads\para adrian\Tarea bien pro\bin\Debug\Tarea bien pro.pdb
-C:\Users\Dylan\source\GitHub\Downloads\para adrian\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.AssemblyReference.cache
-C:\Users\Dylan\source\GitHub\Downloads\para adrian\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.CoreCompileInputs.cache
-C:\Users\Dylan\source\GitHub\Downloads\para adrian\Tarea bien pro\obj\Debug\Tarea bien pro.exe
-C:\Users\Dylan\source\GitHub\Downloads\para adrian\Tarea bien pro\obj\Debug\Tarea bien pro.pdb
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\bin\Debug\Tarea bien pro.exe.config
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\bin\Debug\Tarea bien pro.exe
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\bin\Debug\Tarea bien pro.pdb
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.AssemblyReference.cache
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.CoreCompileInputs.cache
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\obj\Debug\Tarea bien pro.csproj.CopyComplete
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\obj\Debug\Tarea bien pro.exe
+C:\Users\zMavshPvP\Documents\GitHub\Proyect\Tarea bien pro\obj\Debug\Tarea bien pro.pdb
